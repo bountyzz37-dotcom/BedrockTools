@@ -17,7 +17,6 @@
 #include "hud/playercoords.hpp"
 #include "hud/infooverlay.hpp"
 #include "hud/tablist.hpp"
-#include "hud/targethud.hpp"
 
 namespace bedrocktools {
 
